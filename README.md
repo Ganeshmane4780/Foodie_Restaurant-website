@@ -19,7 +19,7 @@ A beautifully designed restaurant website built with HTML & CSS, offering a seam
 
 These are some Photos of project.
 
-💡 Contributing
+💡 Contributing:-
 Feel free to contribute by improving the design, adding animations, or making it more responsive!
 This project is perfect for learning and customization! 🍔
 Feel free to explore, modify, and enhance this project! 🚀✨
