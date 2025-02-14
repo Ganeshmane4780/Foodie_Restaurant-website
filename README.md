@@ -9,7 +9,7 @@ A beautifully designed restaurant website built with HTML & CSS, offering a seam
 ✅ Integrated Google Map for location access
 ✅ Reservation Page allowing customers to book their table with ease
 
-📸 Screenshots
+📸 Preview:-
 (Home):-
 ![image](https://github.com/user-attachments/assets/e66928e9-5c91-4eec-943d-2a8b284f2dae)
 
@@ -17,6 +17,9 @@ A beautifully designed restaurant website built with HTML & CSS, offering a seam
 
 (Menu):-![image](https://github.com/user-attachments/assets/6499643b-f043-4493-99e3-cd6c1cbbf574)
 
-These are some Photos of projects.
+These are some Photos of project.
 
-This project is perfect for learning and customization! 🚀🍔
+💡 Contributing
+Feel free to contribute by improving the design, adding animations, or making it more responsive!
+This project is perfect for learning and customization! 🍔
+Feel free to explore, modify, and enhance this project! 🚀✨
