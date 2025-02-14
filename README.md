@@ -17,6 +17,6 @@ A beautifully designed restaurant website built with HTML & CSS, offering a seam
 
 (Menu):-![image](https://github.com/user-attachments/assets/6499643b-f043-4493-99e3-cd6c1cbbf574)
 
-Here are some Photos of projects.
+These are some Photos of projects.
 
 This project is perfect for learning and customization! 🚀🍔
