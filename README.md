@@ -10,9 +10,13 @@ A beautifully designed restaurant website built with HTML & CSS, offering a seam
 ✅ Reservation Page allowing customers to book their table with ease
 
 📸 Screenshots
-(![image](https://github.com/user-attachments/assets/e66928e9-5c91-4eec-943d-2a8b284f2dae)
-)
+(Home):-
+![image](https://github.com/user-attachments/assets/e66928e9-5c91-4eec-943d-2a8b284f2dae)
 
+(About):-![image](https://github.com/user-attachments/assets/9e56b41b-7bef-4868-96f6-52e19dd11271)
 
-This project is perfect for lea![Uploading Capture.PNG…]()
-rning and customization! 🚀🍔
+(Menu):-![image](https://github.com/user-attachments/assets/6499643b-f043-4493-99e3-cd6c1cbbf574)
+
+Here are some Photos of projects.
+
+This project is perfect for learning and customization! 🚀🍔
